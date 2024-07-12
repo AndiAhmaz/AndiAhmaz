@@ -40,7 +40,7 @@ Feel free to explore my projects and designs here on GitHub. I'm always excited 
 [<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Illustrator" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CorelDraw" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/CorelDraw_Logo.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Canva" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Capcut" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Capcut-logo.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" style="padding-right:10px;" />][webdev]
