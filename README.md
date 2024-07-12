@@ -4,13 +4,13 @@
 Welcome to my GitHub profile! I'm a passionate and skilled Graphic Designer with over 2 years of experience in the creative industry. My expertise spans across various design tools and platforms, allowing me to bring captivating visual content to life.
 
 ### 🛠️ Skills and Proficiencies:
-Adobe Photoshop: Expert in photo editing, manipulation, and enhancing visual aesthetics.
-Adobe Illustrator: Proficient in creating vector graphics, logos, and illustrations.
-CorelDRAW: Skilled in designing detailed and intricate graphics.
-Brand Identity Development: Strong background in crafting unique and cohesive brand identities.
-User Interface (UI) Design: Experienced in designing intuitive and visually appealing user interfaces.
-HTML, CSS, JavaScript: Coding skills to enhance and customize web designs.
-Laravel: Basic knowledge of the Laravel framework for web development.
+- Adobe Photoshop: Expert in photo editing, manipulation, and enhancing visual aesthetics.
+- Adobe Illustrator: Proficient in creating vector graphics, logos, and illustrations.
+- CorelDRAW: Skilled in designing detailed and intricate graphics.
+- Brand Identity Development: Strong background in crafting unique and cohesive brand identities.
+- User Interface (UI) Design: Experienced in designing intuitive and visually appealing user interfaces.
+- HTML, CSS, JavaScript: Coding skills to enhance and customize web designs.
+- Laravel: Basic knowledge of the Laravel framework for web development.
 
 ### 🌟 What I Do:
 I excel in collaborating with marketing teams and clients to transform their visions into reality. My goal is to ensure brand quality and consistency across all platforms, delivering high-impact visual solutions that resonate with audiences.
