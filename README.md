@@ -1,34 +1,61 @@
-![logo](https://github.com/AravindaJogi/AravindaJogi/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
-<h1 align="center">Hi 👋, I'm Aravinda</h1>
-<h3 align="center">"Connecting the Physical World to the Digital: IoT Development on GitHub"</h3>
+# 👋 Hi there, I'm Andi Ahmad Z 
+## About Me:
+### 🎨 Experienced Graphic Designer | 2+ Years in the Creative Industry
+Welcome to my GitHub profile! I'm a passionate and skilled Graphic Designer with over 2 years of experience in the creative industry. My expertise spans across various design tools and platforms, allowing me to bring captivating visual content to life.
 
-<img align="right" alt="Hacking" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+### 🛠️ Skills and Proficiencies:
+- Adobe Photoshop: Expert in photo editing, manipulation, and enhancing visual aesthetics.
+- Adobe Illustrator: Proficient in creating vector graphics, logos, and illustrations.
+- CorelDRAW: Skilled in designing detailed and intricate graphics.
+- Brand Identity Development: Strong background in crafting unique and cohesive brand identities.
+- User Interface (UI) Design: Experienced in designing intuitive and visually appealing user interfaces.
+- HTML, CSS, JavaScript: Coding skills to enhance and customize web designs.
+- Laravel: Basic knowledge of the Laravel framework for web development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindajogi&label=Profile%20views&color=0e75b6&style=flat" alt="aravindajogi" /> </p>
+### 🌟 What I Do:
+I excel in collaborating with marketing teams and clients to transform their visions into reality. My goal is to ensure brand quality and consistency across all platforms, delivering high-impact visual solutions that resonate with audiences.
 
-- 🌱 I’m currently learning **C,Advanced c**
+### 🌐 Let's Connect:
+Feel free to explore my projects and designs here on GitHub. I'm always excited to connect with fellow creatives and professionals. Let's create something amazing together!
+### Connect with me:
 
-- 💬 Ask me about **Tech**
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@marvelaesthetic#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@marvelaesthetic#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://x.com/andy_parawali#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://x.com/andy_parawali#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andiahmadz/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andiahmadz/z#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/andy_parawali#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/andy_parawali#gh-dark-mode-only)
 
-- ⚡ Fun fact **"Don't chase after companies"**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aravinda17816017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aravinda17816017" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aravinda j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravinda j" height="30" width="40" /></a>
-<a href="https://fb.com/aravinda.jogi.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aravinda.jogi.3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aravindamangaluru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aravindamangaluru" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/al20ec006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="al20ec006" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+[webdev]: https://github.com/AndiAhmaz
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindajogi&show_icons=true&locale=en&layout=compact" alt="aravindajogi" /></p>
+### Languages and Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindajogi&show_icons=true&locale=en" alt="aravindajogi" /></p>
+[<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Illustrator" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CorelDraw" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/CorelDraw_Logo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Figma" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Canva" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Capcut" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Capcut-logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Java Script" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="padding-right:10px;" />][webdev]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravindajogi&" alt="aravindajogi" /></p>
+<br />
+<br />
+
+
+---
+
+
 
 ## snake eating my contribution graph
 ![GitHub Main](https://github.com/AndiAhmaz/workflows/blob/output/github-contribution-grid-snake.svg)
