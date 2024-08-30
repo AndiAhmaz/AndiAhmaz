@@ -19,7 +19,7 @@ I excel in collaborating with marketing teams and clients to transform their vis
 Feel free to explore my projects and designs here on GitHub. I'm always excited to connect with fellow creatives and professionals. Let's create something amazing together!
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@marvelaesthetic#gh-light-mode-only)
+[![website]<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="padding-right:10px;">](https://www.youtube.com/@marvelaesthetic#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@marvelaesthetic#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://x.com/andy_parawali#gh-light-mode-only)
