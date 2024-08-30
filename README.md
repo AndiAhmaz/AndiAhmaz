@@ -31,5 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravindajogi&" alt="aravindajogi" /></p>
 
 ## snake eating my contribution graph
-![GitHub Snake](https://github.com/AndiAhmaz/AndiAhmaz/blob/output/github-contribution-grid-snake.svg)
+![GitHub Main](https://github.com/AndiAhmaz/AndiAhmaz/blob/output/github-contribution-grid-snake.svg)
 
