@@ -17,7 +17,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Generate Snake
-      uses: Platane/snk@v2
+      uses: Platane/snk@v3
       with:
         github_user_name: AndiAhmaz
         svg_out_path: dist/github-contribution-grid-snake.svg
