@@ -17,7 +17,7 @@ I excel in collaborating with marketing teams and clients to transform their vis
 
 ### 🌐 Let's Connect:
 Feel free to explore my projects and designs here on GitHub. I'm always excited to connect with fellow creatives and professionals. Let's create something amazing together!
-### Connect with me:
+### 🌀 Connect with me:
 <a href="https://www.youtube.com/@marvelaesthetic">
     <img align="left" alt="Youtube" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">
 </a>
@@ -36,7 +36,7 @@ Feel free to explore my projects and designs here on GitHub. I'm always excited 
 
 [webdev]: https://github.com/AndiAhmaz
 <br />
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 [<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Illustrator" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" style="padding-right:10px;" />][webdev]
@@ -58,7 +58,7 @@ Feel free to explore my projects and designs here on GitHub. I'm always excited 
 
 
 
-## 🐍 Snake eating my contribution graph
+## 🐍 Snake Eating My Contribution Graph
 ![GitHub Main](https://github.com/AndiAhmaz/workflows/blob/output/github-contribution-grid-snake.svg)
 
 
