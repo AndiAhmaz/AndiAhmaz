@@ -22,29 +22,20 @@ Feel free to explore my projects and designs here on GitHub. I'm always excited 
     <img align="left" alt="Youtube" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">
 </a>
 <a href="https://www.instagram.com/andy_parawali">
-    <img align="left" alt="Instagram" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">
+    <img align="left" alt="Instagram" width="30px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" style="padding-right:10px;">
 </a>
-<a href="https://www.youtube.com/@marvelaesthetic#gh-light-mode-only">
-    <img align="left" alt="Photoshop" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">
+<a href="https://web.facebook.com/andhiey64.co.id">
+    <img align="left" alt="Facebook" width="30px" src="https://www.svgrepo.com/show/475647/facebook-color.svg" style="padding-right:10px;">
 </a>
-<a href="https://www.youtube.com/@marvelaesthetic#gh-light-mode-only">
-    <img align="left" alt="Photoshop" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">
+<a href="https://x.com/andy_parawali">
+    <img align="left" alt="Twiter" width="30px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" style="padding-right:10px;">
 </a>
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@marvelaesthetic#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://x.com/andy_parawali#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://x.com/andy_parawali#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andiahmadz/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andiahmadz/z#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/andy_parawali#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/andy_parawali#gh-dark-mode-only)
-
-
+<a href="https://www.linkedin.com/in/andiahmadz">
+    <img align="left" alt="Linkedin" width="30px" src="https://www.svgrepo.com/show/448234/linkedin.svg" style="padding-right:10px;">
+</a>
 
 [webdev]: https://github.com/AndiAhmaz
-
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="padding-right:10px;" />][webdev]
