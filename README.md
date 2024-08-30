@@ -18,10 +18,18 @@ I excel in collaborating with marketing teams and clients to transform their vis
 ### 🌐 Let's Connect:
 Feel free to explore my projects and designs here on GitHub. I'm always excited to connect with fellow creatives and professionals. Let's create something amazing together!
 ### Connect with me:
+<a href="https://www.youtube.com/@marvelaesthetic">
+    <img align="left" alt="Youtube" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">
+</a>
+<a href="https://www.instagram.com/andy_parawali">
+    <img align="left" alt="Instagram" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">
+</a>
 <a href="https://www.youtube.com/@marvelaesthetic#gh-light-mode-only">
     <img align="left" alt="Photoshop" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">
 </a>
-[![website]<img align="left" alt="Photoshop" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">(https://www.youtube.com/@marvelaesthetic#gh-light-mode-only)
+<a href="https://www.youtube.com/@marvelaesthetic#gh-light-mode-only">
+    <img align="left" alt="Photoshop" width="30px" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;">
+</a>
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@marvelaesthetic#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://x.com/andy_parawali#gh-light-mode-only)
