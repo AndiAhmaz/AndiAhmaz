@@ -57,6 +57,17 @@ Feel free to explore my projects and designs here on GitHub. I'm always excited 
 
 
 
-## snake eating my contribution graph
+## 🐍 Snake eating my contribution graph
 ![GitHub Main](https://github.com/AndiAhmaz/workflows/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndiAhmaz&show_icons=true&locale=en&layout=compact" alt="AndiAhmaz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndiAhmaz&show_icons=true&locale=en" alt="AndiAhmaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndiAhmaz&" alt="AndiAhmaz" /></p>
+
 
