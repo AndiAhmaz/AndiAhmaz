@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Andi Ahmad Z 
+![Andy](https://github.com/user-attachments/assets/7aa0a212-e91a-48f7-8063-dc33a16f0886)
+
 ## About Me:
 ### 🎨 Experienced Graphic Designer | 2+ Years in the Creative Industry
 Welcome to my GitHub profile! I'm a passionate and skilled Graphic Designer with over 2 years of experience in the creative industry. My expertise spans across various design tools and platforms, allowing me to bring captivating visual content to life.
